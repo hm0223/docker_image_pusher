@@ -1,4 +1,5 @@
 #triliumnext/trilium:v0.91.6
+vaultwarden/server
 triliumnext/trilium
 node:24.11.1-bullseye-slim
 nginx
