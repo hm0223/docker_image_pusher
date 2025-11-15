@@ -1,4 +1,4 @@
-hub.docker.com/r/triliumnext/trilium/tags:v0.91.6
+triliumnext/trilium:v0.91.6
 nginx
 redis
 httpd
