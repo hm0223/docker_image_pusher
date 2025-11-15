@@ -1,4 +1,5 @@
-triliumnext/trilium:v0.91.6
+#triliumnext/trilium:v0.91.6
+node:24.11.1-bullseye-slim
 nginx
 redis
 httpd
