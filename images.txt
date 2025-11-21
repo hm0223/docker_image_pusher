@@ -1,4 +1,4 @@
-appflowy/appflowy
+ghcr.io/appflowy-io/appflowy-server
 cp0204/quark-auto-save
 emby/embyserver
 #triliumnext/trilium:v0.91.6
